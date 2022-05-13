@@ -1,5 +1,4 @@
-﻿// Jeffery Sowinski : April 28 2022
-// Convert pixel data into useable seed data, random number generator
+﻿// Convert pixel data into useable seed data, random number generator
 // Single form drawing space for user input of pixel data.
 // Take pixel data and convert into a useable seed form
 // through use of algorithmic hashing
@@ -17,7 +16,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Text.RegularExpressions;
 
-// Jeffery Sowinski : April 28 2022 : Convert pixel data into useable seed data, random number generator : Single form drawing space for user input of pixel data. Take pixel data and convert into a useable seed form through use of algorithmic hashing
+
 
 namespace PaintRNG
 {
